@@ -1,6 +1,11 @@
 Hello I'm chocot!
+<<<<<<< HEAD
 I like vanila.
 I like mintblue.
+=======
+I like chocolate cake.
+I like greenblue.
+>>>>>>> a24665e90bee6907c360df40e377188dbfc83358
 git testing..
 ha ha
 blablabla
