@@ -1,2 +1,3 @@
 Today's news!
 HI!
+git is useful.
